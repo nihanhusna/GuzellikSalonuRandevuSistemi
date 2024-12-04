@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuzellikSalonuRandevuSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b4f59a625c7e32a1d0c42816e816346c4764568")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d05bcc8ba36c5b131dac43db80f3b96ada5711eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuzellikSalonuRandevuSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuzellikSalonuRandevuSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\guzelliksalonusistemi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\guzelliksalonusistemi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\models\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\models\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\guzelliksalonusistemi.csproj.user||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\guzelliksalonusistemi.csproj.user||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +35,28 @@
       "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\models\\kuafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\models\\guzelliksalonu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\models\\guzelliksalonu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\guzelliksalonusistemi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\guzelliksalonusistemi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\guzelliksalonusistemi.csproj.user||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|solutionrelative:guzelliksalonurandevusistemi\\guzelliksalonusistemi.csproj.user||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE75298E-AA18-464C-9EB2-8AF5EE3A3803}|GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj|c:\\users\\nihan\\source\\repos\\guzelliksalonurandevusistemi\\guzelliksalonurandevusistemi\\models\\calismasaatleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,116 +131,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GuzellikSalonuSistemi.csproj",
-              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj",
-              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj",
-              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj",
-              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj",
-              "ViewState": "AgIAAAoAAADgR/68yuIowA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-09T06:14:06.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Program.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Program.cs",
               "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Program.cs",
               "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T07:00:57.969Z"
+              "WhenOpened": "2024-11-09T07:00:57.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Data\\DbContext.cs",
-              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Data\\DbContext.cs",
-              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Data\\DbContext.cs",
-              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Data\\DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T07:16:18.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T07:09:32.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "DbSet.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\DbSet.cs",
+              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\DbSet.cs",
+              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\DbSet.cs",
+              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Models\\DbSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:51:19.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RandevuController.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Controllers\\RandevuController.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Controllers\\RandevuController.cs",
               "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Controllers\\RandevuController.cs",
               "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Controllers\\RandevuController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T07:05:40.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Musteri.cs",
-              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Musteri.cs",
-              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\Musteri.cs",
-              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Musteri.cs",
-              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Models\\Musteri.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:03:25.794Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GuzellikSalonuRandevuSistemi.csproj",
-              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj",
-              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj",
-              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj",
-              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-09T06:13:28.66Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\appsettings.json",
+              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\appsettings.json",
+              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T06:53:14.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GuzellikSalonuSistemi.csproj.user",
-              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj.user",
-              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj.user",
-              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj.user",
-              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj.user",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-11-09T06:14:42.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Randevu.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Randevu.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\Randevu.cs",
               "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Randevu.cs",
               "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Models\\Randevu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowAUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T06:03:36.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Islem.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Islem.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\Islem.cs",
@@ -248,43 +215,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Kuafor.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Kuafor.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\Kuafor.cs",
               "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Kuafor.cs",
               "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Models\\Kuafor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T06:02:50.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Musteri.cs",
+              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\Musteri.cs",
+              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\Musteri.cs",
+              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Models\\Musteri.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:03:25.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "GuzellikSalonu.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\GuzellikSalonu.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\GuzellikSalonu.cs",
               "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\GuzellikSalonu.cs",
               "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Models\\GuzellikSalonu.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T06:03:12.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\appsettings.json",
-              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\appsettings.json",
-              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-09T06:53:14.597Z"
+              "DocumentIndex": 10,
+              "Title": "GuzellikSalonuSistemi.csproj",
+              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj",
+              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj",
+              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj",
+              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T06:14:06.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Data\\DbContext.cs",
+              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:16:18.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GuzellikSalonuRandevuSistemi.csproj",
+              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj",
+              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj",
+              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj",
+              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T06:13:28.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GuzellikSalonuSistemi.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj.user",
+              "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj.user",
+              "ToolTip": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj.user",
+              "RelativeToolTip": "GuzellikSalonuRandevuSistemi\\GuzellikSalonuSistemi.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-11-09T06:14:42.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Controllers\\AdminController.cs",
@@ -296,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CalismaSaatleri.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Models\\CalismaSaatleri.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Models\\CalismaSaatleri.cs",
@@ -308,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Randevularim.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Musteri\\Randevularim.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Musteri\\Randevularim.cshtml",
@@ -320,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RandevuAl.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Musteri\\RandevuAl.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Musteri\\RandevuAl.cshtml",
@@ -332,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "KuaforSec.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Musteri\\KuaforSec.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Musteri\\KuaforSec.cshtml",
@@ -344,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "GuzellikSalonu.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Musteri\\GuzellikSalonu.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Musteri\\GuzellikSalonu.cshtml",
@@ -356,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Kuaforler.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Musteri\\Kuaforler.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Musteri\\Kuaforler.cshtml",
@@ -368,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "GuzellikSalonuCalismaSaatleri.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Admin\\GuzellikSalonuCalismaSaatleri.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Admin\\GuzellikSalonuCalismaSaatleri.cshtml",
@@ -380,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Randevu.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Admin\\Randevu.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Admin\\Randevu.cshtml",
@@ -392,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "GuzellikSalonuEkle.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Admin\\GuzellikSalonuEkle.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Admin\\GuzellikSalonuEkle.cshtml",
@@ -404,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "KuaforEkle.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Admin\\KuaforEkle.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Admin\\KuaforEkle.cshtml",
@@ -416,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Kuafor.cshtml",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Views\\Admin\\Kuafor.cshtml",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Views\\Admin\\Kuafor.cshtml",
@@ -428,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "MusteriController.cs",
               "DocumentMoniker": "C:\\Users\\Nihan\\source\\repos\\GuzellikSalonuRandevuSistemi\\GuzellikSalonuRandevuSistemi\\Controllers\\MusteriController.cs",
               "RelativeDocumentMoniker": "GuzellikSalonuRandevuSistemi\\Controllers\\MusteriController.cs",

@@ -1,25 +1,26 @@
-﻿using System.Collections.Generic;
+﻿
+using Microsoft.EntityFrameworkCore;
 
-namespace GuzellikSalonuRandevuSistemi.Models
-{
-    public class ApplicationDbContext
-    {
-        using Microsoft.EntityFrameworkCore;
+namespace GuzellikSalonuRandevuSistemi.Models;
 
-public class ApplicationDbContext : DbContext
+using GuzellikSalonuRandevuSistemi.Data;
+
+
+
+        public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
         }
 
-        public DbSet<Salon> Salons { get; set; }
-        public DbSet<Calisan> Calisans { get; set; }
-        public DbSet<Islem> Islems { get; set; }
-        public DbSet<Randevu> Randevus { get; set; }
+        public DbSet<GuzellikSalonu> GuzellikSalonlari { get; set; }
+        public DbSet<Kuafor> Kuaforler { get; set; }
+        public DbSet<Islem> Islemler { get; set; }
+        public DbSet<Randevu> Randevular { get; set; }
 
         // Override methods if needed for further customization
     }
 
-}
-}
+
+
