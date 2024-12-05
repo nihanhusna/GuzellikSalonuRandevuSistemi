@@ -1,4 +1,7 @@
-﻿namespace GuzellikSalonuRandevuSistemi.Models
+﻿using System;
+using System.Collections.Generic;
+
+namespace GuzellikSalonuRandevuSistemi.Models
 {
     public class Islem
     {
@@ -9,6 +12,8 @@
         public TimeSpan Sure { get; set; } // İşlem süresi
         public int GuzellikSalonuId { get; set; }
         public GuzellikSalonu GuzellikSalonu { get; set; }
+        public object Randevular { get; set; }
 
+       
     }
 }

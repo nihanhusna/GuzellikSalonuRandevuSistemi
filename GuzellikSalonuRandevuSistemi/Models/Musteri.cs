@@ -10,6 +10,6 @@
         public string Telefon { get; set; }
 
         public bool IsAdmin { get; set; }
-
+        public object Randevular { get; set; }
     }
 }

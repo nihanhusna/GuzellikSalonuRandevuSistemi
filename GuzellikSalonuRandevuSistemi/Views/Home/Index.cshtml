@@ -1,8 +1,8 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model GüzellikSalonuSistemi.Models.GüzellikSalonu
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="jumbotron">
+    <h1>Güzellik Salonu: @Model.Adı</h1>
+    <p>Adres: @Model.Adres</p>
+    <p>Telefon: @Model.Telefon</p>
+    <p>E-posta: @Model.Eposta</p>
 </div>

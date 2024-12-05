@@ -1,4 +1,6 @@
-﻿using GuzellikSalonuRandevuSistemi.Models;
+﻿using GuzellikSalonuRandevuSistemi.Data;
+using GuzellikSalonuRandevuSistemi.Models;
+using GuzellikSalonuRandevuSistemi.Models.GuzellikSalonuRandevuSistemi.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
