@@ -1,9 +1,0 @@
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.csproj.AssemblyReference.cache
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.AssemblyInfoInputs.cache
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.AssemblyInfo.cs
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.csproj.CoreCompileInputs.cache
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.RazorAssemblyInfo.cache
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.RazorAssemblyInfo.cs
-C:\Users\Nihan\source\repos\GuzellikSalonuRandevuSistemi\GuzellikSalonuRandevuSistemi\obj\Debug\net8.0\GuzellikSalonuRandevuSistemi.sourcelink.json
